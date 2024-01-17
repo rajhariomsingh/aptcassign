@@ -1,0 +1,4 @@
+Follow the steps :-
+
+1. start the json server : json-server --watch db.json --port 3000
+2. start the deployment server : npm run serve
